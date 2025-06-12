@@ -24,8 +24,7 @@
 
 ## License
 This project is licensed under the `GNU General Public License v3.0`.  
-Editing copyright messages is strictly prohibited.
-
+Editing copyright messages is strictly pro.
 ---
 
 ## Disclaimer
