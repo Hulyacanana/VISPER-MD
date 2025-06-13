@@ -3,10 +3,7 @@
 <p align="center">
   <img src="https://mv-visper-full-db.pages.dev/Data/visper_main.jpeg" alt="Movie Visper"/>
 
-</p>
-
-**You can do anything through WhatsApp and there is no problem with this. This is being maintained in accordance with the terms and conditions of WhatsApp. This is a completely free service, but in the future you may have to purchase some features 🔗✔️**.
-
+**You can do anything through WhatsApp and there is no problem with this. This is being maintained in accordance with the terms and conditions of WhatsApp. This is a completely free service, but in the future you may have to purchase some features 🔗✔️**.ll
 ---
 ### Go to our official website below, it has all the steps 👨‍🔧:
 **[» VISPER MD Official Website](https://visper-md-offical.vercel.app/)**
